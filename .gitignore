@@ -1,0 +1,24 @@
+# Build artifacts
+/build/
+/dist/
+
+# Packaging metadata
+*.egg-info/
+pip-wheel-metadata/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
